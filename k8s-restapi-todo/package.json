@@ -16,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "jimp": "^0.9.3",
     "jsonwebtoken": "^8.5.1",
     "winston": "^3.2.1"
